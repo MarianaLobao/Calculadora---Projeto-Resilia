@@ -1,4 +1,5 @@
-# Calculadora-Projeto-Resilia### 📌 <strong>Sobre o projeto</strong>
+# Calculadora-Projeto-Resilia.
+📌 <strong>Sobre o projeto: </strong>
 
 Desenvolvimento de uma calculadora visando o  mapeamento de um público para uma pesquisa ambiental. Com o intuito de auxiliar a verificar quantas pessoas precisam ser entrevistadas em cada uma das capitais do Brasil para orientar a pesquisa a ter uma boa amostragem, com esse objetivo,  foi desenvolvido  um código na linha de comando que faz esse cálculo. Informando a população da cidade e a margem de erro esperada. Com isso, o código exibirá a quantidade de pessoas que a ONG vai precisar entrevistar.
 
